@@ -1,0 +1,12 @@
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\bin\Debug\Login.exe.config
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\bin\Debug\Login.exe
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\bin\Debug\Login.pdb
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Form1.resources
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.exe
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.pdb
+c:\users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Join.resources
+C:\Users\pyj\documents\visual studio 2013\Projects\Login\Login\obj\Debug\Login.Form_new.resources
